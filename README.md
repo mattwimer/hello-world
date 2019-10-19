@@ -1,2 +1,5 @@
 # hello-world
-Inaugural repository on GitHub!
+
+Hello World!
+
+This is my first change to a file on GitHub!
